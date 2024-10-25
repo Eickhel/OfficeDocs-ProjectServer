@@ -33,11 +33,11 @@ Users with a Planner premium license can convert a basic plan to a premium plan.
 
 - A new premium plan is created with all the data from the basic plan.  
 - The plan is upgraded in-place. Users who have access to the basic plan can access the premium plan once the conversion is complete.  
-  - Users and guest who have Microsoft 365 licenses can continue to work in premium plans as before. See Microsoft 365 User access and guest access for more information.
+  - Users and guest who have Microsoft 365 licenses can continue to work in premium plans as before. See [Microsoft 365 User access and guest access for more information](project-for-the-web/office-365-user-view-access-to-project-and-roadmap.md).
   - Users accessing plans from places that don't support premium plans will either be automatically directed to a location that supports premium plans, or given instructions on how to access premium plans. See redirection information in this article.
 
 - The basic plan becomes read-only, is archived for 90 days, and can't be accessed. Users in the premium plan have 90 days to downgrade back to their basic plan. After 90 days, the basic plan is removed. Details about why and how to downgrade back to a basic plan can be found in this article.
-- If there's data incompatibility between the basic and premium plan, the conversion logic falls back to an import flow:
+- If there's data incompatibility between the basic and premium plan, the conversion falls back to an import flow:
   - The basic plan isn't modified and access to the members remains the same. The team can continue to work on the basic plan without being affected.
   - A new premium plan is created with a copy of the compatible data and understands what was incompatible. The user who initiated conversion has access to the premium plan copy.
   - Possible next steps:
@@ -72,6 +72,6 @@ After plan conversion, the following is how Planner endpoints will function.
 | Planner Web | Users are redirected to the premium plan in Project for the web.|
 | Planner Mobile App | Users can still see all the tasks in the **Assigned to me view**. In the premium plan, users are asked to open the premium plan in Project for the web.|
 | Planner in Teams Mobile | Users can still see all the tasks in the **Assigned to me view**. In the premium plan, users are asked to open the premium plan in the Teams Desktop app. |
-| Basic plans added to Loop | Users are asked to open the premium plan in Project for the web by following the provided link.|
+| Basic plans added to Loop | Not supported.|
 | Basic plans added SharePoint sites | Users are asked to open the premium plan in Project for the web by following the provided link.|
 | Links directly to a basic plan or task within the plan | Users are redirected to the premium plan in Project for the web and to the specific task if specified. |
