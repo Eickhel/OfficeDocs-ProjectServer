@@ -4,8 +4,12 @@ Items:
   items:
   - name: Overview
     href: planner-for-admins.md
-    -name: Learn about Planner Subsriptions
-    items: licensing.md
+    -name: Licensing
+    items:
+  - name: Licensing
+    items:
+    - name: Learn about Planner subscriptions 
+      href: licensing.md
     - name: Understand Planner trial and license assignments
       href: understand-planner-trial-and-license-assignments.md
     - name: How to use Office 365 PowerShell to manage Microsoft Planner licenses
