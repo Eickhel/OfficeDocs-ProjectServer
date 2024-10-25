@@ -1,5 +1,5 @@
 ---
-title: "Understand Planner trials and license assignments"
+title: "Understand Planner premium trials and license assignments"
 description: "Learn about 30-day user trials of Planner and how to assign licenses."
 author: jenzamora 
 ms.author: jenz 
@@ -7,23 +7,20 @@ manager: jtremper
 ms.service: office-perpetual-itpro
 ms.subservice: planner
 ms.topic: how-to 
-ms.date: 04/30/2024
+ms.date: 10/25/2024
 ms.localizationpriority: medium
 audience: Admin
 ---
 
-# Understand Planner trials and license assignments
+# Understand Planner premium trials and license assignments
 
-Within your organization's account, your users might have a Microsoft 365 E3 or E5 license that provides them with access to [Microsoft Planner](https://www.microsoft.com/microsoft-365/business/task-management-software). These users can access Planner either through the [web](https://planner.cloud.microsoft), or through [the newly updated application in Microsoft Teams called Planner](https://teams.microsoft.com/l/app/com.microsoft.teamspace.tab.planner?source=app-details-dialog). As your users explore the benefits of Planner, they might discover that they want more advanced work management capabilities. By signing up for a trial, they can experience Planner's premium features for 30 days. As an admin, you can manage and approve license requests in your organization.
+Within your organization's account, your users might have a Microsoft 365 E3 or E5 license that provides them with access to [Microsoft Planner](https://www.microsoft.com/microsoft-365/business/task-management-software). These users can access Planner either through the [web](https://planner.cloud.microsoft), or through [Teams](https://teams.microsoft.com/l/app/com.microsoft.teamspace.tab.planner?source=app-details-dialog). As your users explore the benefits of Planner, they might discover that they want more advanced work management capabilities. By signing up for a premium trial, they can experience Planner's premium features for 30 days. As an admin, you can manage and approve license requests in your organization.
 
 ## 30-day trial for premium features
 
-When your users follow the prompts to enable a 30-day trial, they're provided access to all the features and functionality in a license for Project Plan 3. Project Plan 3 includes task history, advanced dependencies, custom calendars, timeline (Gantt) view, sprints, custom fields, team workload, and managing goal. Once the trial starts, users can access these features within the Planner app in Teams, or with Project for the Web (https://project.microsoft.com).
+When your users follow the prompts to enable a 30-day trial, they're provided access to all the features and functionality in a license for Planner and Project Plan 3. Project Plan 3 includes features like task history, advanced dependencies, custom calendars, timeline (Gantt) view, sprints, custom fields, team workload, and managing goals. Once the trial starts, users can access these features within the Planner app in Teams, new Planner Web (rolling out)or with Project for the Web (https://project.microsoft.com).  Review the [Project for the web](/office365/servicedescriptions/project-online-service-description/project-web-service-description) service description to see all the features that the trial will include.
 
-> [!IMPORTANT]
-> Microsoft 365 Copilot in Planner (preview) is beginning to roll out. When your organization receives this product update, your users can use this Copilot functionality in their 30-day trial or with your organization's license of Project Plan 3 or Plan 5.
-
-During the trial period, your users can explore all the functionalities offered by the plan and gain insights into how it can benefit their workflow and project management tasks. At the end of the 30-day trial, they can request a premium license from their Microsoft 365 administrator.
+During the trial period, your users can explore all the functionalities offered by the trial license and gain insights into how it can benefit their workflow and project management tasks. At the end of the 30-day trial, they can request a premium license from their Microsoft 365 administrator.
 
 ## Approve license requests
 
