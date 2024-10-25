@@ -16,7 +16,9 @@ ms.date:     07/11/2024
 > This article applies to:
 > - Basic plans in the Planner app in Teams
 > - All plans in other Planner endpoints (including Planner web, Planner mobile, and Planner connectors)
-> It doesn't apply to To Do lists or premium plans in the Planner app in Teams. [Learn more about the Planner app in Teams](/microsoftteams/manage-planner-app) 
+> - For premium plans, see [Disable Project for the web or Roadmap from Microsoft 365](/project-web/remove-roadmap-from-office-365.md)
+> It doesn't apply to To Do lists.
+
 
 If you're a global admin and you want to turn off Microsoft Planner for your organization, you can use Windows PowerShell. Planner is automatically turned on for all organizations that  have Planner as part of their subscription.
 - [Prerequisites for making Planner changes in Windows PowerShell](#prerequisites-for-making-planner-changes-in-windows-powershell)
