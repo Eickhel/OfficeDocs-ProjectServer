@@ -17,7 +17,7 @@ ms.date:     10/25/2024
 > - Basic plans in the Planner app in Teams and Web
 > - All plans in other Planner endpoints (including Planner mobile, and Planner connectors)
 > For
-> - premium plans, see [Disable Project for the web or Roadmap from Microsoft 365](/ProjectWeb/remove-roadmap-from-office-365.md).
+> - premium plans, see [Disable Project for the web or Roadmap from Microsoft 365](/project-for-the-web/remove-roadmap-from-office-36).
 > -  To Do lists, see [Manage access to Microsoft Whiteboard for your organization](/microsoft-365/whiteboard/manage-whiteboard-access-organizations).
 
 
