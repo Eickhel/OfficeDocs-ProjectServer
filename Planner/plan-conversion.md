@@ -33,7 +33,7 @@ Users with a Planner premium license can convert a basic plan to a premium plan.
 
 - A new premium plan is created with all the data from the basic plan.  
 - The plan is upgraded in-place. Users who have access to the basic plan can access the premium plan once the conversion is complete.  
-  - Users and guest who have Microsoft 365 licenses can continue to work in premium plans as before. See [Microsoft 365 User access and guest access for more information](/ProjectWeb/office-365-user-view-access-to-project-and-roadmap.md).
+  - Users and guest who have Microsoft 365 licenses can continue to work in premium plans as before. See [Microsoft 365 User access and guest access for more information](/project-for-the-web/office-365-user-view-access-to-project-and-roadmap.md).
   - Users accessing plans from places that don't support premium plans will either be automatically directed to a location that supports premium plans, or given instructions on how to access premium plans. See redirection information in this article.
 
 - The basic plan becomes read-only, is archived for 90 days, and can't be accessed. Users in the premium plan have 90 days to downgrade back to their basic plan. After 90 days, the basic plan is removed. Details about why and how to downgrade back to a basic plan can be found in this article.
