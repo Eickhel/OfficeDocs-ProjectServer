@@ -5,8 +5,8 @@ f1.keywords:
 ms.author: jenz
 author: jenzamora
 manager: jtremper
-ms.date: 06/17/2021
-ms.reviewer: ryany
+ms.date: 10/30/2024
+ms.reviewer: dahopkin
 audience: Admin
 ms.topic: article
 ms.service: office-perpetual-itpro
