@@ -21,7 +21,7 @@ description: "Learn how to access the roster in Microsoft Planner."
 
 Rosters are a type of container for Microsoft Planner plans, primarily used for plans associated with task lists in Loop. Access to Roster-contained plans is controlled by the members on the Roster.
 
-In General Data Protection Regulation (GDPR) scenarios where the tenant admin is working on a data subject delete request, they may require access to Roster contained plans. The following PowerShell cmdlets have been built to support that access. The tenant admin can use these commands to add and remove a member. This process can be done to give themselves or another person access to a specific roster and the plan data within.
+In General Data Protection Regulation (GDPR) scenarios where the tenant admin is working on a data subject delete request, they might require access to Roster contained plans. The following PowerShell cmdlets support that access. The tenant admin can use these commands to add and remove a member. This process can be done to give themselves or another person access to a specific roster and the plan data within.
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
@@ -38,7 +38,7 @@ Before you begin, make sure you complete the steps outlined in [Prerequisites fo
      Add-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName "<User’s AAD ID or UPN>"
      ```
 
-2. Run the following command to remove a user from the Roster’s membership. No value is returned, but when this command completes the user will have been removed.  
+2. Run the following command to remove a user from the Roster’s membership. No value is returned, but when this command completes the user is removed.  
 
      ```PowerShell
      Remove-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName "<User’s AAD ID or UPN>"
