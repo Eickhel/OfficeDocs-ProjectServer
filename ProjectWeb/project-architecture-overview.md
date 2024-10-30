@@ -35,7 +35,7 @@ For more information about features that are available through these project app
 
 The key Project apps described in this article are available in the following Project Plans.
 
-|**Plan**|**Project Plan 1**|**Project Plan 3**|**Project Plan 5**|
+|**Plan**|**Planner Plan 1**|**Project Plan 3**|**Project Plan 5**|
 |:-----|:-----|:-----|:----|
 |Project for the web  <br/> |Available  <br/> |Available  |Available|
 |Roadmap <br/>| Read-Only | Available|Available |
@@ -44,7 +44,7 @@ The key Project apps described in this article are available in the following Pr
 
 
 > [!Note] 
-> In Project Plan 1, users can only view roadmaps in read-only. 
+> In Planner Plan 1, users can only view roadmaps in read-only. 
 
 For more information on Project Plans, see the [Microsoft Project Service Description](/office365/servicedescriptions/project-online-service-description/project-online-service-description).
 
