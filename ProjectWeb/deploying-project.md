@@ -177,7 +177,7 @@ Foreach ($App in $ProjectRequiredApps) #Remove from hashtable if app exist.
 If ($EntApps.Count -gt 0)
 {
    Write-Host "Check#1: One or more required Enterprise Apps are missing." -ForegroundColor Red
-   Write-Host "Please check that you have 1 or more of the following subscriptions: Project Plan 1, Project Plan 3 or Project Plan 5." -ForegroundColor Red
+   Write-Host "Please check that you have 1 or more of the following subscriptions: Planner Plan 1, Project Plan 3 or Project Plan 5." -ForegroundColor Red
    $EntApps | ft -a 
 }
 else

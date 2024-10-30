@@ -20,14 +20,14 @@ description: "Learn how to turn Project for the web or Roadmap on or off for use
 
 Access to Project for the web is available to users if they’re assigned one of the following licenses:
 
-- Project Plan 1
+- Planner Plan 1
 - Project Plan 3 (previously called Project Online Professional)
 - Project Plan 5 (previously called Project Online Premium)
 
 Users who have Project Plan 3 and Project Plan 5 licenses have access to not only Project Online and the Project Online Desktop Client, but also Project for the web and Roadmap. 
 
 > [!Note]
-> Users only have read-only access to Roadmap through the Project Plan 1 license.
+> Users only have read-only access to Roadmap through the Planner Plan 1 license.
 
 ## How admins can control access to Project for the web and Roadmap
 
@@ -104,7 +104,7 @@ To turn off Project for the web for a user:
     You can repeat this procedure for each user that you don't want to use Project for the web.
 
 > [!Important]
-> The service plan that disables Project for the web is called **Project P3**.  It is important to distinguish it from **Project Plan 3**, which is one of the three licenses in which Project for the web is available. Project Plan 1, Project Plan 3, and Project Plan 5 are all licenses that have the Project P3 service plan.</br>  
+> The service plan that disables Project for the web is called **Project P3**.  It is important to distinguish it from **Project Plan 3**, which is one of the three licenses in which Project for the web is available. Planner Plan 1, Project Plan 3, and Project Plan 5 are all licenses that have the Project P3 service plan.</br>  
 
 
 ### Turn Project for the web off for multiple users using Windows PowerShell
