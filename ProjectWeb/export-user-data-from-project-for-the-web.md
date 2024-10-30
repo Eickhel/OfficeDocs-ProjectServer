@@ -35,7 +35,7 @@ You’ll need the following in order to look for data on a specific user through
 If you also want to export and view information on specific projects:
 
 - You need to be a tenant admin.
-- You need to have a Project Plan 1, Project Plan 3, or Project Plan 5 license.
+- You need to have a Planner Plan 1, Project Plan 3, or Project Plan 5 license.
 
 
 ## Methods for finding your user's data
