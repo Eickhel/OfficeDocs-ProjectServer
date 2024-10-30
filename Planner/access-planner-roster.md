@@ -25,7 +25,7 @@ In General Data Protection Regulation (GDPR) scenarios where the tenant admin is
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-Follow the steps in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
+Before you begin, make sure you complete the steps outlined in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Manage Roster membership
 
