@@ -27,7 +27,7 @@ If you're a global admin and you want to turn off calendar sync in Microsoft Pla
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
-Before you begin, make sure you have completed the steps outlined in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
+Before you begin, make sure you complete the steps outlined in [Prerequisites for making Planner changes in Windows PowerShell](prerequisites-for-powershell.md) to make Planner changes in Windows PowerShell.
 
 ## Turn off or on Outlook calendar sync in Planner using PowerShell
 
