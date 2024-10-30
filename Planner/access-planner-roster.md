@@ -1,5 +1,5 @@
 ---
-title: "Access Microsoft Planner Roster"
+title: "Gain access to Rosters in Microsoft Planner"
 f1.keywords:
 - NOCSH
 ms.author: jenz
