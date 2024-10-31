@@ -27,7 +27,7 @@ Project for the web is built on the [Microsoft Power Platform](https://powerplat
 
 ## Data retention
 
-Since Project for the web data is stored in Common Data Service (CDS), data retention policies differ from Project Online (whose data is stored in Office 365). When your Project Online subscription ends, your data is retained for 90 days before it’s automatically deleted (in accordance to [Office 365 data retention policies](/microsoft-365/compliance/retention-policies)). However, if you use Project for the web (which is included in Planner Plan 1, Project Plan 3, and Planner and Project Plan 5 licenses), that data isn’t automatically deleted 90 days after your subscription ends.
+Since Project for the web data is stored in Common Data Service (CDS), data retention policies differ from Project Online (whose data is stored in Office 365). When your Project Online subscription ends, your data is retained for 90 days before it’s automatically deleted (in accordance to [Office 365 data retention policies](/microsoft-365/compliance/retention-policies)). However, if you use Project for the web (which is included in Planner Plan 1, Planner and Project Plan 3, and Planner and Project Plan 5 licenses), that data isn’t automatically deleted 90 days after your subscription ends.
 
 You can remove all Project for the web or Roadmap data by [removing the entire solution from from Microsoft 365](/project-for-the-web/remove-roadmap-from-office-365).
 
@@ -64,7 +64,7 @@ The **Turn Roadmap on for your organization** control on the Project Settings pa
 
 ## Turn off Project Online
 
-An admin may want certain users to have access to Project for the web and the Roadmap feature, and not Project Online, and would need to [turn off the Project Online service for the user](/project-for-the-web/turn-project-for-the-web-off#turn-off-project-online) through their assigned Project Plan 3 or Planner and Project Plan 5 license.
+An admin may want certain users to have access to Project for the web and the Roadmap feature, and not Project Online, and would need to [turn off the Project Online service for the user](/project-for-the-web/turn-project-for-the-web-off#turn-off-project-online) through their assigned Planner and Project Plan 3 or Planner and Project Plan 5 license.
 
 ## See Also
 
