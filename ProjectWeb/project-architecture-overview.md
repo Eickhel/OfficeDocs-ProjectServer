@@ -35,7 +35,7 @@ For more information about features that are available through these project app
 
 The key Project apps described in this article are available in the following Project Plans.
 
-|**Plan**|**Planner Plan 1**|**Project Plan 3**|**Planner and Project Plan 5**|
+|**Plan**|**Planner Plan 1**|**Planner and Project Plan 3**|**Planner and Project Plan 5**|
 |:-----|:-----|:-----|:----|
 |Project for the web  <br/> |Available  <br/> |Available  |Available|
 |Roadmap <br/>| Read-Only | Available|Available |
