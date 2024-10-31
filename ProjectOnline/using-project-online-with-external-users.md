@@ -66,7 +66,7 @@ The **Allow external users who accept sharing invitations and sign Office 365in 
 
 Use the following procedure to configure sharing for your Project Web App site in Project Online. Be sure that sharing is [enabled at the tenant level](https://support.office.com/article/C8A462EB-0723-4B0B-8D0A-70FEAFE4BE85) before you proceed. 
   
- **To configure sharing for Project Web App**
+**To configure sharing for Project Web App**
   
 1. In the SharePoint Online admin center, in the **site collections** area, select the check box for the Project Web App site that you want to share. 
     
@@ -74,9 +74,9 @@ Use the following procedure to configure sharing for your Project Web App site i
     
 3. Select the option that you want to use for sharing:
     
-  - **Allow sharing only with the external users that already exist in your organizations's directory** if you want to share only with users that you've imported from another directory or tenant. 
+   - **Allow sharing only with the external users that already exist in your organizations's directory** if you want to share only with users that you've imported from another directory or tenant. 
     
-  - **Allow external users who accept sharing invitations and sign in as authenticated users** if you want to be able to send invitations to users with a Microsoft or Office 365 account. 
+   - **Allow external users who accept sharing invitations and sign in as authenticated users** if you want to be able to send invitations to users with a Microsoft or Office 365 account. 
     
 4. Click **Save**.
     
