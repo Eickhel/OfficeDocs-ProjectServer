@@ -35,7 +35,7 @@ For more information about features that are available through these project app
 
 The key Project apps described in this article are available in the following Project Plans.
 
-|**Plan**|**Planner Plan 1**|**Project Plan 3**|**Project Plan 5**|
+|**Plan**|**Planner Plan 1**|**Planner and Project Plan 3**|**Planner and Project Plan 5**|
 |:-----|:-----|:-----|:----|
 |Project for the web  <br/> |Available  <br/> |Available  |Available|
 |Roadmap <br/>| Read-Only | Available|Available |
@@ -94,7 +94,7 @@ Project Online data is stored to the SharePoint Content Database in Office 365. 
 
 You can use Power BI Desktop to import and analyze your Project Online data using [Power BI](/projectonline/tune-project-online-performance#powerbi). You can use the [Project Power BI template](/project-for-the-web/connect-to-project-for-the-web-data-through-powerbi-desktop) to view a Portfolio dashboard of reports that can be helpful in analyzing your data. And as noted earlier, the same Project template can be used to include your Project for the web data as well.
 
-For larger Project Online instances with very large amounts of data, you may want to use [SQL Server Integration Services (SSIS)](/projectonline/tune-project-online-performance#sql-server-integration-services-ssis) to access and analyze your data.
+For larger Project Online instances with large amounts of data, you may want to use [SQL Server Integration Services (SSIS)](/projectonline/tune-project-online-performance#sql-server-integration-services-ssis) to access and analyze your data.
 
 ## Project Online Desktop Client
 
