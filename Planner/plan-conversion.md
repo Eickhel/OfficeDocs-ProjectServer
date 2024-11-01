@@ -37,7 +37,7 @@ Users with a Planner premium license can convert a basic plan to a premium plan.
   - Users accessing plans from places that don't support premium plans will either be automatically directed to a location that supports premium plans, or given instructions on how to access premium plans. See redirection information in this article.
 
 - The basic plan becomes read-only, is archived for 90 days, and can't be accessed. Users in the premium plan have 90 days to downgrade back to their basic plan. After 90 days, the basic plan is removed. Details about why and how to downgrade back to a basic plan can be found in this article.
-- If there's data incompatibility between the basic and premium plan, the conversion falls back to an import flow:
+- If there's data incompatibility between the basic and premium plans, the conversion falls back to an import flow:
   - The basic plan isn't modified and access to the members remains the same. The team can continue to work on the basic plan without being affected.
   - A new premium plan is created with a copy of the compatible data and understands what was incompatible. The user who initiated conversion has access to the premium plan copy.
   - Possible next steps:
