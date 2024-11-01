@@ -16,6 +16,8 @@ description: "Learn how Project for the web uses Dataverse to store and manage d
 
 # Handling data for Project
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 This article gives you an overview of how data is handled for two Project services: Project for the web and Project Online.
 
 Project Online is built on SharePoint Online and its data is stored in Office 365 (specifically in SharePoint Online).

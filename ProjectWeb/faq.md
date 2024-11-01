@@ -13,6 +13,8 @@ description: "Frequently Asked Questions about Project for the Web."
 
 # Frequently Asked Questions
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 ## Using Project
 
 ### Does Project for the web include a way to record timesheets?
@@ -31,7 +33,7 @@ The Project Power App can be used by you and your organization to completely cus
 
 You can find the Project Power App in the [Microsoft 365 app launcher](https://support.microsoft.com/office/meet-the-microsoft-365-app-launcher-79f12104-6fed-442f-96a0-eb089a3f476a). Just look for the Project app with the purple icon.
 
-![Project Power App launcher.](media/PowerAppLauncher.png) 
+![Project Power App launcher.](media/PowerAppLauncher.png)
 
 ## Customization
 
@@ -43,7 +45,7 @@ Yes! It’s a [model-driven Power App](/powerapps/maker/model-driven-apps/model-
 
 [Use the Power Apps designer](/powerapps/maker/model-driven-apps/model-driven-app-overview) to add columns to the Tables, Views, and Forms in the Project Power App.
 
-### I need to use more than five custom tables with Project for the web, how can I do that? 
+### I need to use more than five custom tables with Project for the web, how can I do that?
 
 Create a new Power App and add any tables you need into it. You can have all the core Project tables, views, and forms, as well as any additional custom tables that you need. Users of this new Power App will need at least a Planner Plan 1, Plan 3, or Plan 5 license, as well as a license to PowerApps. If you intend to use tables from other applications, be sure to follow any licensing guidelines for those apps.
 
@@ -52,6 +54,7 @@ Create a new Power App and add any tables you need into it. You can have all the
 The Project Team Member role is customizable and can be used to manage the access rights of users. Learn how to customize roles [here](/power-platform/admin/wp-security-cds#:~:text=Dataverse%20uses%20role%2Dbased%20security,Dataverse%20teams%20and%20business%20units.).
 
 ### What is the owner property of a Project record in Dataverse? Why does it change when I share the project?
+
 The owner property of a Project record in Dataverse is the user who created the project. This property is used to determine which users can access the project. When a project is shared with a group, the ownership of the project changes. The group then becomes the new owner of the project.
 
 ### How can I use Power BI with Project for the web?
