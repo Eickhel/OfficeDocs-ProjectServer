@@ -54,9 +54,10 @@ When you get to the resources page, perform the following steps:
 2. On the New Bookable Resource page, select in the **Resource Type** field, and select the resource type you need to create.
    
 ![Screenshot of resource types.](media/resourcetypes.png)
-4. Provide the information needed for the resource type you selected.
-5. In the **Name** field, type the name you want to give the resource.
-6. When you’re done, select **Save and Close**.
+
+3. Provide the information needed for the resource type you selected.
+4. In the **Name** field, type the name you want to give the resource.
+5. When you’re done, select **Save and Close**.
 
 The new resource will display in the Bookable Resources page and can be assigned to tasks in Project for the web.
 
