@@ -43,7 +43,7 @@ Users with a Planner premium license can convert a basic plan to a premium plan.
   - Possible next steps:
     - Modify the basic plan to remove compatibility issues and attempt to convert again.
     - Review the premium plan copy and share with the team if it meets your requirements.
-Review [Import a plan](https://prod.support.services.microsoft.com/office/import-a-plan-into-a-project-for-the-web-016f9e4d-28c6-4f61-a1b1-82187185977d) to understand scenarios and limits where the system will fall back to the import flow.
+Review [Import a plan](https://support.microsoft.com/office/import-a-plan-into-a-project-for-the-web-016f9e4d-28c6-4f61-a1b1-82187185977d) to understand scenarios and limits where the system will fall back to the import flow.
 - Power Automate workflows and 3rd party applications need to be modified to work with premium plans.  See [Use V2 Project schedule APIs with Power Automate](/dynamics365/project-operations/project-management/scheduling-apis-powerautomate-v2) and [Project schedule API](/dynamics365/project-operations/project-management/schedule-api-preview) for more information.
 
 ## Converting to a premium plan
