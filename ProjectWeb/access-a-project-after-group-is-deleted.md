@@ -16,6 +16,8 @@ description: "Learn how to regain access to a project in Project for the web aft
 
 # Access a project in Project for the web after its Office 365 group has been deleted
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 If the Office 365 group that is associated with your project has been deleted, users in the group won’t be able to access the project.  However, there are ways for you to regain access.
 
 - The group owner can restore the Office 365 group.
@@ -44,7 +46,7 @@ If the Office 365 group has been deleted for longer than 30 days, it isn’t res
 The admin will need to:
 
 1. Find the project through the Advanced Find search function in the Dynamics 365 Admin Center.
-2. Assign the project to the user that needs to access it. 
+2. Assign the project to the user that needs to access it.
 
 ### Find the project in Advanced Find search
 
