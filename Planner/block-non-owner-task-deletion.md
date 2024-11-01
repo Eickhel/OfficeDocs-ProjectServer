@@ -36,7 +36,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
    |Parameter|Description|
    |:-------------------------|:---|
-   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user modify the setting for.|
+   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user to modify the setting for.|
    |BlockDeleteTasksNotCreatedBySelf|Whether or not to block the user from deleting tasks not created by themselves.|
    |HostName|You only need to use this parameter if you access Planner through a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
@@ -59,7 +59,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
    |:---|:---|
-   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user modify the setting for.|
+   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user to modify the setting for.|
    |BlockDeleteTasksNotCreatedBySelf|Whether or not to block the user from deleting tasks not created by themselves.|
    |HostName|You only need to use this parameter if you access Planner through a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
