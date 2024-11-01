@@ -38,7 +38,7 @@ As an admin, you can manage license assignments within your organization. You ha
 
 - **Monitor product usage**: After a user starts a trial, you can track product usage metrics within the Microsoft 365 Admin Center to determine which users can benefit most from a permanent license.
 
-- **Enable or disable license requests**: To control who can access the trial and when, you can use the Microsoft 365 Admin Center, you can turn the option for people in your organization to request a license on or off. 
+- **Enable or disable license requests**: To control who can access the trial and when, you can use the Microsoft 365 Admin Center, you can turn the option for people in your organization to request a license on or off.
 
 - **Self-service purchases**: Users can opt to purchase a license independently. While you can't assign or unassign licenses for these purchases, [you can take over the subscription](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide#take-over-a-self-service-purchase-or-trial-subscription&preserve-view=true) and manage it accordingly.
 
