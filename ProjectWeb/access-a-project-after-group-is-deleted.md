@@ -1,5 +1,5 @@
 ---
-title: "Access a project in Project for the web after its Office 365 group has been deleted"
+title: "Access a project in Project for the web after its Office 365 group is deleted"
 ms.author: jenz
 author: jenzamora
 manager: jtremper
@@ -11,14 +11,14 @@ search.appverid:
 - PJO150
 - MET150
 ms.localizationpriority: medium
-description: "Learn how to regain access to a project in Project for the web after its associated Office 365 group has been deleted."
+description: "Learn how to regain access to a project in Project for the web after its associated Office 365 group is deleted."
 ---
 
-# Access a project in Project for the web after its Office 365 group has been deleted
+# Access a project in Project for the web after its Office 365 group is deleted
 
 [!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
 
-If the Office 365 group that is associated with your project has been deleted, users in the group won’t be able to access the project. However, there are ways for you to regain access.
+If the Office 365 group that is associated with your project is deleted, users in the group won’t be able to access the project. However, there are ways for you to regain access.
 
 - The group owner can restore the Office 365 group.
 - An admin can reassign the project to a user who can then choose or create a new group.
@@ -27,7 +27,7 @@ The option you should choose depends on how long ago the group was deleted.
 
 ## Restore the Office 365 group
 
-If a group that you own has been deleted, it will be retained for 30 days by default. This 30-day period is considered a "soft-delete" because you can still restore the deleted group. After 30 days, the group will be permanently deleted and can’t be restored.
+If a group that you own is deleted, it will be retained for 30 days by default. This 30-day period is considered a "soft-delete" because you can still restore the deleted group. After 30 days, the group will be permanently deleted and can’t be restored.
 
 If you’re the owner of an Office 365 group, you can restore the group yourself by following these steps.
 
@@ -57,8 +57,8 @@ Use [Dynamics 365 Advanced Find search](/dynamics365/customer-engagement/basics/
 3. On the **Projects** page, select the filter icon in the menu bar and then select **Advance Find**.
 
     ![Advanced Find.](media/AdvancedFind.png)
-4. In Advanced Find, in the **Look for** menu, select **Projects**.  In the **Use Saved View** menu, select **All projects**.
-5. Select **Select**, and from the menu, select **Name**.  From the next menu, select **Equals**, and then in the **Enter text** box type the name of the project you’re looking for. </br>
+4. In Advanced Find, in the **Look for** menu, select **Projects**. In the **Use Saved View** menu, select **All projects**.
+5. Select **Select**, and from the menu, select **Name**. From the next menu, select **Equals**, and then in the **Enter text** box type the name of the project you’re looking for. </br>
 
      ![Advanced Find Filter.](media/AdvancedFindFilter.png)
 
