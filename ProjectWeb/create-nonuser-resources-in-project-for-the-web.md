@@ -16,6 +16,8 @@ description: "Learn how to add a non-user resource and make it available to assi
 
 # Add non-user resources in Project for the web
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 Project for the web is built on the [Microsoft Power Platform](https://powerplatform.microsoft.com/en-us/), and some aspects of resource setup for Project for the web is done in Dynamics 365, such as how to add resources that aren’t users in your organization (for example, contacts or equipment) and making them available to assign to tasks.
 
 While users in Microsoft Entra ID are available to assign to project tasks in Project for the web, you need to manually add non-user resources.
