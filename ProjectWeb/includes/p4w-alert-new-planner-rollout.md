@@ -15,4 +15,4 @@ search.appverid: MET150
 description: "Microsoft Project for the web will soon become Microsoft Planner. The new Planner is currently rolling out to customers."
 ---
 
-:::image type="icon" source="../media/info.png"::: **Microsoft Project for the web will soon become Microsoft Planner, which is currently rolling out to customers. To learn more about setting up the new Planner for your organization, see [Microsoft Planner for admins](../../Planer/planner-for-admins).**
+:::image type="icon" source="../media/info.png"::: **Microsoft Project for the web will soon become Microsoft Planner, which is currently rolling out to customers. To learn more about setting up the new Planner for your organization, see [Microsoft Planner for admins](/../Planer/planner-for-admins).**
