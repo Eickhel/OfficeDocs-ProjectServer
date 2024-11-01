@@ -166,7 +166,7 @@ The Accelerator includes a placeholder for the Power BI template. Once you've de
 1. At the top right corner of the Site Map, select **Save**, and then select **Publish**. Close the site map.
 1. On the command bar, select **Publish all Customizations**.
 1. Open Project for the web, and in the navigation pane, select **Reports**.
-1. The report now appears in Project for the web. Tp open it, on the navigation pane select **Reports > Report**.
+1. The report now appears in Project for the web. To open it, on the navigation pane select **Reports > Report**.
 
     :::image type="content" source="media/powerbi-in-app.png" alt-text="Power BI Project Accelerator report.":::
 
