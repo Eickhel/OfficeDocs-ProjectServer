@@ -17,6 +17,8 @@ ms.date: 10/25/2019
 
 # Remove Project for the web or Roadmap from Microsoft 365
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 You can turn Project for the web or Roadmap off in the Microsoft 365 admin center. This setting prevents your users from using them, but will not remove any user data that currently exists. 
 
 > [!NOTE]
