@@ -12,6 +12,8 @@ description: "Learn about the security roles in Project for the web."
 ---
 # Project for the Web Security Roles
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 Project for the web includes several security roles that enable users to work with Project. Some of these security roles can also be customized by Administrators to control access of data. For more information, see [Security roles and privileges](/power-platform/admin/security-roles-privileges).
 
 Project Common and Project User roles need to be assigned to each user to create/manage projects within a non-default environment. These roles are needed in addition to roles required to sign in and access a Dataverse environment. For more information, see [Security roles and privileges](/power-platform/admin/assign-security-roles).

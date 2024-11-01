@@ -15,4 +15,4 @@ search.appverid: MET150
 description: "The new Microsoft Planner is currently rolling out to customers."
 ---
 
-:::image type="icon" source="../media/info.png"::: **The new Microsoft Planner is currently rolling out to customers. To learn more about setting up the new Planner for your organization, see [Microsoft Planner for admins](../../Planer/planner-for-admins).**
+:::image type="icon" source="../media/info.png"::: **The new Microsoft Planner is currently rolling out to customers. To learn more about setting up the new Planner for your organization, see [Microsoft Planner for admins](/../Planner/planner-for-admins).**
