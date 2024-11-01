@@ -18,6 +18,8 @@ description: "Resources for administrators who want to learn more about managing
 
 # Project for the web get started guide for administrators
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 Project for the web is a new service that is now available to Office 365 users.  You can make it available to your users through the following licenses:
 
 - Planner Plan 1

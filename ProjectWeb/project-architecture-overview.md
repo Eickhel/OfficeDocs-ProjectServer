@@ -16,6 +16,8 @@ description: "Get a high-level overview of the Project logical architecture."
 
 # Project architecture overview
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 This article gives you an overview of the logical architecture that exists for key apps that are provided in Project.
 
 ![Project logical architecture diagram.](media/project-architecture-overview-early-version.png)
