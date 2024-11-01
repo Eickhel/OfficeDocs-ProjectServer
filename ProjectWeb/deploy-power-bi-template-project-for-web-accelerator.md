@@ -13,6 +13,8 @@ audience: admin
 
 # Add the Power BI template to the Project Management Office Accelerator
 
+[!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
+
 The [Project Management Office Accelerator solution](deploy-project-for-web-accelerator-power-bi-template.md) gives you a head start customizing Project for the web to support common project management scenarios. It's a managed solution, making it easy to deploy new versions as updates.
 
 We've prepared a Power BI template for the Project Management Office Accelerator (PMO Accelerator). To add the Power BI template, create a managed solution for it, then deploy that solution on top of the PMO Accelerator.
@@ -58,7 +60,7 @@ The process has four broad steps:
 
 Like the Project Power App, the PMO Accelerator is a [managed solution](/power-platform/alm/solution-concepts-alm) so that Microsoft can make future improvements and fixes, and so customers can deploy such changes as upgrades to their environment. Although you can customize the environment after you deploy the Accelerator, this might cause issues if you then try to deploy an update.
 
-To add the Power BI template, you should create a managed solution that contains the customizations required to integrate the template into the Project+Accelerator environment. 
+To add the Power BI template, you should create a managed solution that contains the customizations required to integrate the template into the Project+Accelerator environment.
 
 > [!TIP]
 > If you're a beginner to managed solutions, visit [Application lifecycle management (ALM) with Microsoft Power Platform](/power-platform/alm/) to prepare before your first try.
