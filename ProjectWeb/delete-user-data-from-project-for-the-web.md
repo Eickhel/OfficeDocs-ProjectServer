@@ -12,7 +12,7 @@ search.appverid:
 - MET150
 ms.localizationpriority: medium
 ms.custom: Adm_Project, has-azure-ad-ps-ref, azure-ad-ref-level-one-done
-description: "Learn how an Microsoft 365 global administrator can delete a user's information from Project for the Web."
+description: "Learn how a Microsoft 365 global administrator can delete a user's information from Project for the Web."
 ---
 
 # Delete user data from the Project for the web
@@ -73,11 +73,11 @@ Where `08ff59a5-b31f-4f2f-bcdd-1dc373c88583` is the GroupId GUID value and `a948
 
 Once you’re an owner of the groups, you can open the roadmaps from Project Home and make edits directly. Roadmap must be enabled to do this.)
 
-### For roadmaps not associated with an Microsoft 365 group
+### For roadmaps not associated with a Microsoft 365 group
 
-If your user's roadmap isn’t associated with an Microsoft 365 group, and you want to be able to make edits to it, you need to add a group that you own to the roadmap.
+If your user's roadmap isn’t associated with a Microsoft 365 group, and you want to be able to make edits to it, you need to add a group that you own to the roadmap.
 
-This first requires you to create an Microsoft 365 Group and get the Microsoft 365 Group Microsoft Entra ID value for it. After you do this, perform the following steps:
+This first requires you to create a Microsoft 365 Group and get the Microsoft 365 Group Microsoft Entra ID value for it. After you do this, perform the following steps:
 
 1. In the Advanced Find search results, select the name of the roadmap to open it in Dynamics 365.
 2. In the Roadmap Information page in Dynamics 365, select the menu item with three dots, and in the menu select **Flow**, and then select **Form Editor**.
