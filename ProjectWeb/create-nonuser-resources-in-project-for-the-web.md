@@ -53,7 +53,7 @@ When you get to the resources page, perform the following steps:
 1. On the Resources page, select **New**.
 2. On the New Bookable Resource page, select in the **Resource Type** field, and select the resource type you need to create.
    
-![Screenshot of resource types.](media/resourcetypes.png)
+   ![Screenshot of resource types.](media/resourcetypes.png)
 
 3. Provide the information needed for the resource type you selected.
 4. In the **Name** field, type the name you want to give the resource.
