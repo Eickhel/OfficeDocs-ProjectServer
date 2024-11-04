@@ -12,10 +12,10 @@ search.appverid:
 - PJO150
 - MET150
 description: "Remove Roadmap from Microsoft 365."
-ms.date: 10/25/2019
+ms.date: 10/25/2024
 ---
 
-# Remove Project for the web or Roadmap from Microsoft 365
+# Disable Project for the web or Roadmap from Microsoft 365
 
 [!INCLUDE [Planner release note](includes/p4w-alert-new-planner-rollout.md)]
 
