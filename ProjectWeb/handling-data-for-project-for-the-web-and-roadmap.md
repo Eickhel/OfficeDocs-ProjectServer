@@ -29,7 +29,7 @@ Project for the web is built on the [Microsoft Power Platform](https://powerplat
 
 ## Data retention
 
-Since Project for the web data is stored in Common Data Service (CDS), data retention policies differ from Project Online (whose data is stored in Office 365). When your Project Online subscription ends, your data is retained for 90 days before it’s automatically deleted (in accordance to [Office 365 data retention policies](/microsoft-365/compliance/retention-policies)). However, if you use Project for the web (which is included in Planner Plan 1, Planner and Project Plan 3, and Planner and Project Plan 5 licenses), that data isn’t automatically deleted 90 days after your subscription ends.
+Since Project for the web data is stored in Dataverse (formerly Common Data Service), data retention policies differ from Project Online (whose data is stored in Office 365). When your Project Online subscription ends, your data is retained for 90 days before it’s automatically deleted (in accordance to [Office 365 data retention policies](/microsoft-365/compliance/retention-policies)). However, if you use Project for the web (which is included in Planner Plan 1, Planner and Project Plan 3, and Planner and Project Plan 5 licenses), that data isn’t automatically deleted 90 days after your subscription ends.
 
 You can remove all Project for the web or Roadmap data by [removing the entire solution from from Microsoft 365](/project-for-the-web/remove-roadmap-from-office-365).
 
